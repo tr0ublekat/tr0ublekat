@@ -10,6 +10,6 @@
 
 
 <p align="center">
-  <img src="media/red_fox.gif" alt="kek">
+  <img src="https://raw.githubusercontent.com/tr0ublekat/tr0ublekat/main/media/red_fox.gif" alt="kek">
 </p>
-<p align="right">haha, that running fox looks very funny</p>
+<p align="right">haha, that running fox looks funny</p>
