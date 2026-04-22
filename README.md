@@ -7,9 +7,3 @@
 <h1 align="center">i'm tr0ublekat...</h1>
 
 <p align="center">a programmer cat (what?)</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tr0ublekat/tr0ublekat/main/media/red_fox.gif" alt="kek">
-</p>
-<p align="right">haha, that running fox looks funny</p>
