@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="media/cat.jpg" alt="lol" width="50%">
+  </a>
+</p>
 
-<!--
-**tr0ublekat/tr0ublekat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">i'm tr0ublekat...</h1>
 
-Here are some ideas to get you started:
+<p align="center">a programmer cat (what?)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="media/red_fox.gif" alt="kek">
+</p>
+<p align="right">haha, that running fox looks very funny</p>
