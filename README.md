@@ -5,5 +5,3 @@
 </p>
 
 <h1 align="center">i'm tr0ublekat...</h1>
-
-<p align="center">a programmer cat (what?)</p>
